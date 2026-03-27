@@ -14,6 +14,6 @@ My name is Piyush Khedekar. I am a passionate software developer with a love for
 ## Contact Information
 
 Feel free to reach out to me:
-- Email: piyush@example.com
-- LinkedIn: [Piyush Khedekar](https://www.linkedin.com/in/piyushkhedekar)
+- Email: piyushkhedekar1911@gmail.com
+- LinkedIn: [Piyush Khedekar](https://www.linkedin.com/in/piyush-khedekar-2a7656308/)
 - GitHub: [PiyushKhedekar](https://github.com/PiyushKhedekar)
